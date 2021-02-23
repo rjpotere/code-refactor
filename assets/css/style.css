@@ -1,3 +1,4 @@
+/*all elements selected*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -147,6 +148,7 @@ aside {
     background-color: #2589bd;
 }
 
+/*styling for the elements inside the aside*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
